@@ -197,7 +197,7 @@ void loop()
           client.print("<head>");
           client.print("<link href=\"https://fonts.googleapis.com/css?family=Jura\" rel=\"stylesheet\">");
           client.print("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">");
-          client.print("<meta http-equiv=\"refresh\" content=\"5; url=http://10.0.0.240/\">");
+          client.print("<meta http-equiv=\"refresh\" content=\"5; url=http://x.x.x.x/\">");
           client.print("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">");
           client.print("<style type=\"text/css\">");
           client.print("* { margin: 0; padding: 0;  font-family: 'Jura', sans-serif;}");
@@ -220,7 +220,7 @@ void loop()
           client.print("</head>");
           client.print("<body>");
           client.print("<title>Air-Conditioning Dashboard</title>");
-          client.print("<h1>Кабинет №932</h1>");
+          client.print("<h1>Кабинет №000</h1>");
           client.print("<br />");
           client.print("<div>");
           client.print("<p>Температура");
